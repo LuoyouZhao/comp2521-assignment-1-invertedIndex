@@ -1,0 +1,58 @@
+and file11.txt 
+apparent file11.txt 
+ascribed file11.txt file21.txt 
+attributed file11.txt file21.txt 
+been file11.txt 
+changes file11.txt file21.txt 
+circle mixed.txt planets.txt 
+color file11.txt file21.txt 
+cycles info31.txt 
+design file11.txt file21.txt 
+early file11.txt 
+eu nasa.txt 
+experiments nasa.txt 
+features file11.txt file21.txt 
+has file11.txt 
+high mixed.txt 
+human file11.txt 
+intelligent file11.txt file21.txt 
+interest file11.txt 
+japan nasa.txt 
+jupiter nasa.txt 
+jupitor mixed.txt 
+landing news1.txt 
+light info31.txt mixed.txt 
+linear file11.txt file21.txt 
+long file11.txt 
+man news1.txt 
+mars file11.txt file21.txt mixed.txt nasa.txt news1.txt planets.txt 
+moon info31.txt mixed.txt nasa.txt news1.txt planets.txt 
+moons mixed.txt 
+nasa nasa.txt 
+observations file11.txt 
+of file11.txt 
+on file11.txt 
+planet nasa.txt news1.txt 
+planets nasa.txt 
+pluto mixed.txt planets.txt 
+promise news1.txt 
+rays info31.txt mixed.txt 
+red news1.txt 
+revealed file11.txt file21.txt 
+robot nasa.txt 
+robotics news1.txt 
+seasonal file11.txt file21.txt planets.txt 
+small mixed.txt 
+subject file11.txt 
+sun info31.txt mixed.txt news1.txt planets.txt 
+surface file11.txt file21.txt 
+telescopic file11.txt 
+that file11.txt 
+the file11.txt 
+to file11.txt file21.txt 
+vegetation file11.txt file21.txt 
+volcano info31.txt mixed.txt nasa.txt news1.txt 
+waves mixed.txt 
+weather info31.txt nasa.txt news1.txt 
+were file11.txt file21.txt 
+winds mixed.txt planets.txt 
